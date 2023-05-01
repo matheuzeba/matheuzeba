@@ -3,7 +3,7 @@
 
 
 ## 🌐 Linkedin:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-tavares-viana//) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-tavares-viana?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B3vUQkfjeQFmmKSAvffOo%2Fg%3D%3D) 
 
 # 💻 Tecnologias que estou aprendendo:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
