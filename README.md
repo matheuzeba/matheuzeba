@@ -5,7 +5,7 @@ Meu nome é Matheus Tavares Viana sou apaixonado por café e **Backend Developer
 Atualmente estudo Back-end na [@cubosacademy](https://cubos.academy/).
 
 ## :globe_with_meridians: Para me encontrar:
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/matheus-tavares-viana/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-tavares-viana/)
 <a href="mailto:tavaresviana82@gmail.com">
   <img src="https://media.tenor.com/0gV2Cl5u1bQAAAAi/cute-mail.gif" width="50px" />
 </a>
